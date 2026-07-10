@@ -20,7 +20,7 @@ The primary goals of this repository are to:
 
 | Total | Easy | Medium | Hard |
 |------:|-----:|-------:|-----:|
-|  0/0  |  0/0 |  0/0   |  0/0 |
+|   0   |   0  |   0    |  0   |
 
 > This table will be updated as I solve more problems.
 
