@@ -61,8 +61,12 @@ Every problem follows the same structure.
 Arrays/
 
 └── 0001_Two_Sum/
-    ├── README.md
-    └── solution.cpp
+    └── Aryan/
+        ├── README.md
+        └── solution.cpp
+    └── Durvesh/
+        ├── README.md
+        └── solution.cpp
 ```
 
 Each problem contains:
@@ -121,10 +125,17 @@ Time Complexity
 
 Space Complexity
 
-### Key Idea
+### Observation 
+A short explanation of the what are the observation i had done.
 
-A short explanation of the algorithm.
+###   Approach
+How i had aproach to that problem.
 
+### Mistakes
+What are the problems i had faced during solving problem.
+
+###  Learning
+What are the learnings and key take aways from that problem Which can help further resolving other problems.
 ---
 
 
