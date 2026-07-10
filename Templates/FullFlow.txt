@@ -1,0 +1,25 @@
+Open Notion
+      │
+      ▼
+Choose today's problems
+      │
+      ▼
+Solve independently (20–40 minutes each)
+      │
+      ▼
+Discuss approaches (not just code)
+      │
+      ▼
+Implement the final solution
+      │
+      ▼
+Push code to GitHub
+      │
+      ▼
+Paste the GitHub folder link into Notion
+      │
+      ▼
+Mark Solved → Discussed → Revision if needed
+      │
+      ▼
+Review weak problems every weekend
