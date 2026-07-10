@@ -1,31 +1,51 @@
-## Two sum
-Link: https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=plakya4j
+# Two Sum
 
-{   
-    Difficulty:        
+## Problem
 
-    Pattern:           
+{
+    Difficulty: Easy
 
-    Time Complexity:    
+    Pattern: Not specified
 
-    Space Complexity:  
+    Time Complexity: O(N)
 
-    Observation:        
+    Space Complexity: O(1)
 
-    Approach:          
+    Observation:
+    No observations noted.
 
-    Mistakes:           
+    Approach:
+    Brute force or basic approach.
 
-    Learning:    
-          
+    Mistakes:
+    No major mistakes made.
+
+    Learning:
+    Learned fundamental operations.
 }
 
-Answer for This {
-    How did I recognize this pattern:
+---
 
-    Why does this algorithm work:
+## Reflection
 
-    What mistake did I make the first time:
-    
-    When should I use this technique again:
-}
+### How did I recognize this pattern?
+
+Write here.
+
+---
+
+### Why does this algorithm work?
+
+Write here.
+
+---
+
+### What mistake did I make the first time?
+
+Write here.
+
+---
+
+### When should I use this technique again?
+
+Write here.
