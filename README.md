@@ -135,7 +135,9 @@ How i had aproach to that problem.
 What are the problems i had faced during solving problem.
 
 ###  Learning
-What are the learnings and key take aways from that problem Which can help further resolving other problems.
+
+-What are the learnings and key take aways from that problem Which can help further resolving other problems.
+
 ---
 
 
