@@ -1,8 +1,7 @@
 # Two Sum
 
 ## Problem
-
-{
+{  #
     Difficulty: Easy
 
     Pattern: 2 pointer and hash_map
@@ -40,8 +39,11 @@ Because it easy to use and giving O(logn) and O(n) is very good I think .
 ---
 
 ### What mistake did I make the first time?
+
 Not able to get index value.
+
 ---
 
 ### When should I use this technique again?
+
 Many places where we have to find 1 value other we can get easily.
