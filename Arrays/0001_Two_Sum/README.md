@@ -5,7 +5,7 @@
 - **Difficulty**: Easy
 - **Topic**: Arrays
 - **Pattern**: Not specified
-- **Date Solved**: 2026-07-10
+- **Date Solved**: 2026-07-12
 
 ---
 
