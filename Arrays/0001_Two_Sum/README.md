@@ -4,7 +4,7 @@
 - **LeetCode URL**: [Two Sum](https://leetcode.com/problems/two-sum/)
 - **Difficulty**: Easy
 - **Topic**: Arrays
-- **Pattern**: Not specified
+- **Pattern**: 2-Sum and Hash-table
 - **Date Solved**: 2026-07-12
 
 ---
@@ -13,14 +13,14 @@
 No observations noted.
 
 ## Approach
-Brute force or basic approach.
+Brute force || 2-Pointer || Hash Map.
 
 ## Complexity Analysis
 - **Time Complexity**: `O(N)`
-- **Space Complexity**: `O(1)`
+- **Space Complexity**: `O(N)`
 
 ## Key Learnings
-Learned fundamental operations.
+Later we Write.
 
 ## Common Mistakes & Pitfalls
-No major mistakes made.
+Later will Write.
